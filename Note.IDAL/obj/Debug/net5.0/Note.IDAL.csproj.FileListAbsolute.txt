@@ -1,0 +1,15 @@
+C:\git\csharp-study\Note\Note.IDAL\bin\Debug\net5.0\Note.IDAL.deps.json
+C:\git\csharp-study\Note\Note.IDAL\bin\Debug\net5.0\Note.IDAL.dll
+C:\git\csharp-study\Note\Note.IDAL\bin\Debug\net5.0\ref\Note.IDAL.dll
+C:\git\csharp-study\Note\Note.IDAL\bin\Debug\net5.0\Note.IDAL.pdb
+C:\git\csharp-study\Note\Note.IDAL\bin\Debug\net5.0\Note.Model.dll
+C:\git\csharp-study\Note\Note.IDAL\bin\Debug\net5.0\Note.Model.pdb
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.csproj.AssemblyReference.cache
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.AssemblyInfoInputs.cache
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.AssemblyInfo.cs
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.csproj.CoreCompileInputs.cache
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.csproj.CopyComplete
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.dll
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\ref\Note.IDAL.dll
+C:\git\csharp-study\Note\Note.IDAL\obj\Debug\net5.0\Note.IDAL.pdb

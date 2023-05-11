@@ -1,0 +1,17 @@
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.BLL.deps.json
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.BLL.dll
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\ref\Note.BLL.dll
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.BLL.pdb
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.IDAL.dll
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.Model.dll
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.IDAL.pdb
+C:\git\csharp-study\Note\Note.BLL\bin\Debug\net5.0\Note.Model.pdb
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.csproj.AssemblyReference.cache
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.AssemblyInfoInputs.cache
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.AssemblyInfo.cs
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.csproj.CoreCompileInputs.cache
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.csproj.CopyComplete
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.dll
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\ref\Note.BLL.dll
+C:\git\csharp-study\Note\Note.BLL\obj\Debug\net5.0\Note.BLL.pdb

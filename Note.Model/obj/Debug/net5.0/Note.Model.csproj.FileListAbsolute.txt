@@ -1,0 +1,12 @@
+C:\git\csharp-study\Note\Note.Model\bin\Debug\net5.0\Note.Model.deps.json
+C:\git\csharp-study\Note\Note.Model\bin\Debug\net5.0\Note.Model.dll
+C:\git\csharp-study\Note\Note.Model\bin\Debug\net5.0\ref\Note.Model.dll
+C:\git\csharp-study\Note\Note.Model\bin\Debug\net5.0\Note.Model.pdb
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.csproj.AssemblyReference.cache
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.AssemblyInfoInputs.cache
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.AssemblyInfo.cs
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.csproj.CoreCompileInputs.cache
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.dll
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\ref\Note.Model.dll
+C:\git\csharp-study\Note\Note.Model\obj\Debug\net5.0\Note.Model.pdb
